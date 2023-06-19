@@ -1,0 +1,2 @@
+mini_gmapping:mini_navigation:neor_mini:steer_drive_ros/steer_bot_hardware_gazebo:steer_drive_ros/steer_drive_controller:steer_drive_ros/steer_drive_ros:steer_drive_ros/stepback_and_steerturn_recovery:steer_mini_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/melodic/demo/devel -DCMAKE_INSTALL_PREFIX=/home/melodic/demo/install -G Unix Makefiles
